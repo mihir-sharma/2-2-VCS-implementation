@@ -1,1 +1,2 @@
 http://www.tutorialspoint.com/django/ 
+https://docs.djangoproject.com/en/1.10/intro/tutorial01/ -->link for the offical django tutorial.
